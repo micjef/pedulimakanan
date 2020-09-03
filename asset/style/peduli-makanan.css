@@ -131,6 +131,7 @@ footer{
 }
 .daftar .khusus{
   width: 80%;
+  margin-left: -100px;
 }
 /*akhir tutorial*/
 /*awal donasi*/
